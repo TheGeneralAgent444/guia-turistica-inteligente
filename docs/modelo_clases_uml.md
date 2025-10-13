@@ -43,9 +43,4 @@ Este modelo se basa en la arquitectura modular definida previamente y sirve como
 El siguiente diagrama ilustra la estructura y relaciones entre las clases del sistema:
 
 ![Diagrama UML](../interfaces/modelo_clases_uml.drawio.png)
-
----
-
-### Referencias
-- Pressman, R. (2010). *Ingeniería de Software: Un enfoque práctico.* McGraw-Hill.  
-- Sommerville, I. (2011). *Software Engineering.* Pearson Education.  
+ 
