@@ -69,7 +69,7 @@ El flujo general de la información se da de la siguiente forma:
 
 A continuación se presenta el diagrama general de flujo:
 
-![Diagrama de Flujo de Información](../interfaces/flujo_datos.drawio.png)
+![Diagrama de Flujo de Información](../interfaces/flujo_datos..drawio.png)
 
 *(El diagrama representa la interacción de las tres capas y los módulos funcionales del sistema).*
 
