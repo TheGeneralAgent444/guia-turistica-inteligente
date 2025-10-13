@@ -50,5 +50,6 @@ El sistema sigue una **arquitectura de tres capas**:
 ---
 
 ## 3. Diagrama de Arquitectura (Esquema)
-![Diagrama de Arquitectura](../interfaces/arquitectura_modular.png)
+![Diagrama de Arquitectura](../interfaces/arquitectura_modular.drawio.png)
+
 
