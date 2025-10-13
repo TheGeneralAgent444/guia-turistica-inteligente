@@ -12,19 +12,19 @@ El sistema ofrece itinerarios personalizados, recomendaciones de lugares, notifi
 
 ##  Estructura del Repositorio
 /docs/
-├── arquitectura_modular.md
-├── flujo_datos.md
-├── interfaces.md
-├── modelo_clases_uml.md
-└── informe_final.md
+- arquitectura_modular.md
+- flujo_datos.md
+- interfaces.md
+- modelo_clases_uml.md
+- informe_final.md
 
 /interfaces/
-├── arquitectura_modular.png
-├── flujo_datos.png
-├── modelo_clases_uml.png
-├── pantalla_inicio_sesion.png
-├── pantalla_mapa_principal.png
-└── pantalla_itinerario.png
+- arquitectura_modular.png
+- flujo_datos.png
+- modelo_clases_uml.png
+- pantalla_inicio_sesion.png
+- pantalla_mapa_principal.png
+- pantalla_itinerario.png
 
 
 ---
