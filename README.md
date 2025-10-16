@@ -62,7 +62,7 @@ El sistema ofrece itinerarios personalizados, recomendaciones de lugares, notifi
 ##  Repositorio del Proyecto
 
 -> URL del repositorio:  
-[https://github.com/tu_usuario/guia-turistica-inteligente](https://github.com/tu_usuario/guia-turistica-inteligente)
+https://github.com/TheGeneralAgent444/guia-turistica-inteligente
 
 ---
 
