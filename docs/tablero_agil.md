@@ -37,9 +37,9 @@ Las columnas del tablero son las siguientes:
 ---
 
 ##  Enlace al Tablero
-[Acceder al tablero en Jira](https://www.atlassian.com/software/jira) *(Ejemplo, reemplazar por el enlace real del tablero del grupo)*
-
+[Acceder al tablero en Jira](https://joseluishoyossalazar.atlassian.net/jira/software/projects/GTIU/boards/34?jql=)
 ---
 
 ##  Evidencia
 Se adjunta una captura de pantalla del estado actual del tablero, mostrando las tareas distribuidas entre las columnas *To Do*, *In Progress* y *Done*.
+![Tablero Ágil Jira](../interfaces/tablero_agil.png)
