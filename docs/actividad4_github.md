@@ -76,5 +76,5 @@ Cada integrante aportó en su área de responsabilidad (diseño, documentación 
   [https://github.com/JoseHoyosSalazar/guia-turistica-inteligente](https://github.com/JoseHoyosSalazar/guia-turistica-inteligente)
 
 - **Captura de Commits:**  
-  `/interfaces/commits_equipo.png`
+  `/interfaces/commits.png`
 
