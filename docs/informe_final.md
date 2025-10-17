@@ -43,7 +43,7 @@ El sistema adopta una arquitectura modular de tres capas, que permite la escalab
    Administra el almacenamiento en bases de datos y la persistencia de la información.  
 
  **Diagrama de Arquitectura Modular:**  
-![Arquitectura Modular](../interfaces/arquitectura_modular.png)
+![Arquitectura Modular](../interfaces/arquitectura_modular.drawio.png)
 
 ---
 
@@ -60,7 +60,7 @@ La comunicación entre capas sigue un flujo de ida y retorno, donde los datos de
 | Notificaciones | Cola FIFO | Envía alertas personalizadas. |
 
  **Diagrama de Flujo de Información:**  
-![Flujo de Datos](../interfaces/flujo_datos.png)
+![Flujo de Datos](../interfaces/flujo_datos..drawio.png)
 
 ---
 
@@ -78,7 +78,7 @@ El diseño orientado a objetos se modeló mediante un diagrama UML de clases, do
 Cada clase define sus atributos y métodos, evidenciando relaciones de composición y agregación entre ellas.
 
  **Diagrama UML de Clases:**  
-![Diagrama UML](../interfaces/modelo_clases_uml.png)
+![Diagrama UML](../interfaces/modelo_clases_uml.drawio.png)
 
 ---
 
@@ -93,9 +93,7 @@ Se diseñaron tres pantallas principales que componen el flujo de interacción:
 | **Itinerario Personalizado** | Gestiona actividades del viaje. |
 
  **Mockups de Interfaz:**  
-![Interfaz de Inicio de Sesión](../interfaces/pantalla_inicio_sesion.png)  
-![Interfaz de Mapa Principal](../interfaces/pantalla_mapa_principal.png)  
-![Interfaz de Itinerario](../interfaces/pantalla_itinerario.png)
+![Interfaz](../interfaces/Interfaz IA viajero.png)  
 
 ---
 
@@ -132,7 +130,7 @@ guia-turistica-inteligente/
 
 
  **Evidencia de commits del equipo:**  
-![Commits del equipo](../interfaces/commits_equipo.png)
+![Commits del equipo](../interfaces/commits.png)
 
 ---
 
