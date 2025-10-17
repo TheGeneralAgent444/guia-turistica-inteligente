@@ -93,7 +93,7 @@ Se diseñaron tres pantallas principales que componen el flujo de interacción:
 | **Itinerario Personalizado** | Gestiona actividades del viaje. |
 
  **Mockups de Interfaz:**  
-![Interfaz](../interfaces/Interfaz IA viajero.png)  
+![Interfaz](../interfaces/Interfaz%20IA%20viajero.jpg)  
 
 ---
 
