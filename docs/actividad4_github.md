@@ -58,7 +58,7 @@ Cada integrante realizó al menos **dos commits** documentados en el historial d
 
 A continuación se muestra la evidencia visual del historial de commits en GitHub:
 
-![Evidencia de Commits del Equipo](../interfaces/commits_equipo.png)
+![Evidencia de Commits del Equipo](../interfaces/commits.png)
 
 ---
 
